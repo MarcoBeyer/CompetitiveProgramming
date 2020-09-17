@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "xiosbase": "cpp",
+        "ios": "cpp",
+        "cstdlib": "cpp",
+        "cmath": "cpp",
+        "set": "cpp"
+    }
+}
